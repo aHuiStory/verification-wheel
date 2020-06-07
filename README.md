@@ -1,2 +1,2 @@
 # verification-wheel
-verification wheel, which provide gaming experience during answer the questions.
+verification wheel, which provides gaming experience during answering the questions.
